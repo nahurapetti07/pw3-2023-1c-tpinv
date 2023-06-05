@@ -9,5 +9,5 @@ Cada grupo tendrá una carpeta sobre la cual subir su proyecto *(ver el README d
 Además del código, deberán crear una subcarpeta **Documentacion** en la cual incuirán (en formato PDF) la presentación de diapositivas y el documento explicativo del proyecto.
 
 - Realizar un fork del repositorio.
-- Generar un pull request desde el fork.
-- Con la generación del pull request, se toma como entrega.
+- Generar un pull request (PR) desde el fork. NO realizar el merge, solo generarlo.
+- Con la generación del PR, se toma como entregado.
