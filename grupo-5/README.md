@@ -1,4 +1,4 @@
-# BlockChain
+# Grupo 5 : BlockChain
 
 ### Integrantes
 - CRUZ ALEJANDRO DAVID (35097711)

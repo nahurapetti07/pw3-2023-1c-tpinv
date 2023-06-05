@@ -1,4 +1,4 @@
-# SignalR
+# Grupo 8 : SignalR
 
 ### Integrantes
 - AIBAR, HERNAN EZEQUIEL (42462359)

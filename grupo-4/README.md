@@ -1,4 +1,4 @@
-# EF NoSQL
+# Grupo 4 : EF NoSQL
 
 ### Integrantes
 - HERRERA, BRENDA ERIKA FIORELLA (43724139)

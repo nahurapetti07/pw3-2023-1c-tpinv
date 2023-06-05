@@ -1,4 +1,4 @@
-# Inteligencia Artificial
+# Grupo 7 : Inteligencia Artificial
 
 ### Integrantes
 - CASTILLO, EMILIANO LEONEL (40187592)

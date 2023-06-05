@@ -1,4 +1,4 @@
-# Azure Cloud Computing
+# Grupo 1 : Azure Cloud Computing
 
 ### Integrantes
 - ESPINOZA, MARÍA CHIARA (42673774)

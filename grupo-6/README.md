@@ -1,4 +1,4 @@
-# REST Api +
+# Grupo 6 : REST Api +
 
 ### Integrantes
 - ABUIN, MATIAS DANIEL (41745291)

@@ -1,4 +1,4 @@
-# Inteligencia Artificial
+# Grupo 3 : Inteligencia Artificial
 
 ### Integrantes
 - GONZALEZ, GUSTAVO ANTONIO (41544246)

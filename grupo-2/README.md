@@ -1,4 +1,4 @@
-# Login Autenticación Integrada
+# Grupo 2 : Login Autenticación Integrada
 
 ### Integrantes
 - BARONE, ESTEBAN NICOLAS (43445028)
