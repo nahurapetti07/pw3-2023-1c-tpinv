@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('../../fonts/montserrat/static/Montserrat-Regular.ttf') format('truetype');
+}
+
+label{
+    font-family: 'Montserrat-Regular';
+}
+
+.add{
+    background-color: #E8EEFE!important;   
+}
+
+.add-container{
+    padding: 8rem 20rem!important;
+}
+
+.add .title{
+    background-color: #4B53F2;
+}
+
+.confirmar{
+    color: white!important;
+    background-color: #4B53F2!important;
+    transition: 0.5s!important;
+  }
+  
+.confirmar:hover{
+    transform: scale(1.1);
+}

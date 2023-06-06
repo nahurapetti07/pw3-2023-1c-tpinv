@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'Montserrat-Extrabold';
+  src: url('../../fonts/montserrat/static/Montserrat-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: url('../../fonts/montserrat/static/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Hind-Marudai';
+  src: url('../../fonts/hindmarudai/HindMadurai-Regular.ttf') format('truetype');
+}
+
+h1{
+  color: #30323D!important;
+  font-size: 3.5em!important;
+  font-family: 'Montserrat-ExtraBold';
+}
+
+p{
+  line-height: 1.6!important;
+  font-size: 1.2em!important;
+  font-family: 'Hind-Marudai';
+}
+
+.banner .btn, nav button{
+  color: white!important;
+  background-color: #4B53F2!important;
+  transition: 0.5s!important;
+  -webkit-transition: 0.5s!important;
+  -moz-transition: 0.5s!important;
+  -ms-transition: 0.5s!important;
+  -o-transition: 0.5s!important;
+}
+
+.banner .btn:hover, nav button:hover{
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+.banner-container{
+  background-color: #E8EEFE!important;   
+}
+
+.banner{
+  padding: 14rem 10rem 8rem 10rem;
+}
+
+.custom-shape-divider-top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-top svg {
+  position: relative;
+  display: block;
+  width: calc(128% + 1.3px);
+  height: 122px;
+}
+
+.custom-shape-divider-top .shape-fill {
+  fill: #FFFFFF;
+}
+

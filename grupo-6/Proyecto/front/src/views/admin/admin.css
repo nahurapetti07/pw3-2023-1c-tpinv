@@ -1,0 +1,23 @@
+.admin{
+  background-color: #E8EEFE!important;
+  padding-top: 6rem;
+  height: 100vh;
+}
+
+.butgroup {
+  background-color: #fff!important;
+}
+
+thead{
+  background-color: #4B53F2!important;
+}
+
+.add-button{
+  color: white!important;
+  background-color: #4B53F2!important;
+  transition: 0.5s!important;
+}
+
+.add-button:hover{
+  transform: scale(1.1);
+}
