@@ -1,0 +1,15 @@
+.detail{
+    background-color: #E8EEFE!important;   
+}
+
+.detail-container{
+    padding: 8rem 0rem 5rem 0rem;
+}
+
+.contenido{
+    font-size: 15px!important;
+}
+
+.titulo, .categoria, .sinopsis{
+    color: #4B53F2;
+}

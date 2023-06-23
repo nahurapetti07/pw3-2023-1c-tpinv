@@ -1,0 +1,61 @@
+@font-face {
+  font-family: 'Montserrat-Extrabold';
+  src: url('../../fonts/montserrat/static/Montserrat-Bold.ttf') format('truetype');
+}
+
+h2{
+  font-size: 2.5rem!important;
+  font-family: 'Montserrat-Extrabold';
+}
+
+h3{
+  font-size: 2rem!important;
+  font-family: 'Montserrat-Extrabold';
+}
+
+.search-container{
+  padding: 10rem 0rem 8rem 0rem;
+  background-color: #E8EEFE!important;   
+}
+
+.search:focus, .search:hover{
+  box-shadow: none!important;
+  border: 1px solid #4B53F2!important;
+}
+
+.image-container .img{
+  transition: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -ms-transition: 1s;
+  -o-transition: 1s;
+}
+  
+.image-container:hover .img {
+  transform: scale(1.1);
+  filter: brightness(0.5);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -webkit-filter: brightness(0.5);
+}
+  
+.ver-mas {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 20px;
+  border: none;
+  font-size: 16px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  color: white!important;
+  background-color: #4B53F2!important;
+  text-decoration: none;
+}
+  
+.image-container:hover .ver-mas {
+  opacity: 1;
+}
